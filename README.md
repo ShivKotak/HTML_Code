@@ -10,5 +10,5 @@ This repository contains all my HTML practice work and beginner projects. It inc
 
 A work-in-progress repo to sharpen my web development skills and document my learning. More pages, styles, and upgrades coming soon! 🚀
 
-This repo will grow with more pages, styles, and real-world UI experiments. Stay tuned!
+
 
